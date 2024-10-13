@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @FR0OST
+- 👋 Hi, I’m @Pritam
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me pritamsundria@gmail.com
-- 😄 Pronouns: Pritam Sundria
+- 😄 Pronouns: FRooST
 - ⚡ Fun fact: naah! i am boring
 
 <!---
